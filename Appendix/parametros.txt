@@ -1,3 +1,0 @@
-URLS_REPOSITORIOS#{https://dados.gov.br/api/3/action/package_search?q=fies,https://dados.gov.br/api/3/action/package_search?q=mcmv,https://dados.gov.br/api/3/action/package_search?q=transparencia}
-TERMOS#{fies,mcmv,tranparencia}
-
